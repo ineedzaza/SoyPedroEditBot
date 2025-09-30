@@ -1,0 +1,11 @@
+# Surely everything will work the exact same forever and ever
+
+ffprobe-python
+ffmpeg-python
+discord.py
+pyjson5
+psutil
+Pillow==9.5.0
+yt-dlp
+pydub
+requests
